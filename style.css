@@ -1,0 +1,18 @@
+#mainImage {
+    width: 1525px;
+}
+#phoneImage {
+    width: 800px;
+}
+#mainPg {
+    font-family: Georgia, serif;
+    font-size: 32px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: underline solid rgb(68, 68, 68);
+    font-style: italic;
+    font-variant: small-caps;
+    text-transform: capitalize;
+    }
